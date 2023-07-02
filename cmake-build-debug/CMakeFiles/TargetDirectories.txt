@@ -1,0 +1,3 @@
+C:/Users/mateu/CLionProjects/Alokator/cmake-build-debug/CMakeFiles/Alokator.dir
+C:/Users/mateu/CLionProjects/Alokator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mateu/CLionProjects/Alokator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
